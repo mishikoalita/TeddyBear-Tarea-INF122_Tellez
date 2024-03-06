@@ -36,19 +36,18 @@ body{
     top: 10px;
     border-style: dashed;
 }
-.body{
-	background: rgb(95,60,30);
-	box-shadow: 0 0 0 20px rgb(190,120,60) inset;
+.body {
+	background: rgb(230,160,90);
+	box-shadow: 0 0 0 24em rgb(190,120,60) inset;
 	margin: auto;
 	right: 0;
-	bottom: 30px
+	bottom: 30px;
 	left: 0;
 	width: 150px;
 	height: 150px;
     top: 110px;
     border-radius: 120%;
     border-style: dashed;
-    
 }
 .right-eye, .left-eye, .nose-inner {
 	background: rgb(255, 255, 255);
